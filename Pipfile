@@ -13,6 +13,7 @@ sklearn = "*"
 tensorflow = "*"
 seaborn = "*"
 opencv-python = "*"
+tensorflow-datasets = "*"
 
 [dev-packages]
 
